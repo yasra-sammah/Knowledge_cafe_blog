@@ -2,9 +2,10 @@
   {
     "id": 1,
     "cover_image": "https://i.ibb.co/9pt7kTP/clark-tibbs-oq-Stl2-L5ox-I-unsplash.jpg",
-    "title": "Lorem Ipsum",
+    "title": "How-to Guide: Mastering the Art of Photography"
+    ,
     "author": "John Doe",
-    "author_img": "https://example.com/author1.jpg",
+    "author_img": "../src/assets/images/boy1.png",
     "posted_date": "2024-03-30",
     "posted_time":7,
     "hashtags": ["fiction", "writing", "books"]
@@ -12,9 +13,9 @@
   {
     "id": 2,
     "cover_image": "https://i.ibb.co/3N5pKCK/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg",
-    "title": "Dolor Sit Amet",
+    "title": "Inspirational Stories: Triumphs Over Adversity",
     "author": "Jane Smith",
-    "author_img": "https://example.com/author2.jpg",
+    "author_img": "../src/assets/images/boy2.png",
     "posted_date": "2024-03-29",
     "hashtags": ["poetry", "literature"],
     "posted_time":8
@@ -22,9 +23,9 @@
   {
     "id": 3,
     "cover_image": "https://i.ibb.co/FDwmVHh/patrick-tomasso-Oaqk7qq-Nh-c-unsplash.jpg",
-    "title": "Consectetur Adipiscing",
+    "title": "Expert Advice: Navigating the World of Personal Finance",
     "author": "Mark Johnson",
-    "author_img": "https://example.com/author3.jpg",
+    "author_img": "../src/assets/images/girl1.jpg",
     "posted_date": "2024-03-28",
     "hashtags": ["science", "technology"],
     "posted_time":8
@@ -32,9 +33,9 @@
   {
     "id": 4,
     "cover_image": "https://i.ibb.co/KV82yqR/corinne-kutz-t-MI2-r5-Nfo-unsplash.jpg",
-    "title": "Sed Do Eiusmod",
+    "title": "Exploring Nature: A Journey Through National Parks",
     "author": "Emily Brown",
-    "author_img": "https://example.com/author4.jpg",
+    "author_img": "../src/assets/images/girl2.jpg",
     "posted_date": "2024-03-27",
     "hashtags": ["programming", "coding"],
     "posted_time":8
@@ -42,9 +43,9 @@
   {
     "id": 5,
     "cover_image": "https://i.ibb.co/C1KzHnQ/austin-distel-t-LZh-FRLj6n-Y-unsplash.jpg",
-    "title": "Tempor Incididunt",
+    "title": "Healthy Living Tips: Wellness for Mind, Body, and Spirit",
     "author": "Michael Wilson",
-    "author_img": "https://example.com/author5.jpg",
+    "author_img": "../src/assets/images/girl2.jpg",
     "posted_date": "2024-03-26",
     "hashtags": ["health", "fitness"],
     "posted_time":7
